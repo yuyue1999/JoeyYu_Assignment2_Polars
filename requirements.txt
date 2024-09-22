@@ -1,0 +1,6 @@
+pandas
+matplotlib
+FPDF
+pytest
+black
+ruff
