@@ -19,15 +19,7 @@ The "AI-Powered Job Market Insights" dataset provides a synthetic but realistic 
 In [`src/main.py`](src/main.py), This code reads a dataset on the AI job market, generates descriptive statistics, and creates visualizations for company size distribution, job growth projections, and the most common required skills. It compiles these analyses into a PDF report with the corresponding charts. [here](AI-Powered_Job_Report.pdf).
 
 #### Descriptive Statistics
-          Salary_USD
-count     500.000000
-mean    91222.390974
-std     20504.291453
-min     31969.526346
-25%     78511.514863
-50%     91998.195286
-75%    103971.282092
-max    155209.821614
+![img.png](img.png)
 
 
 #### points histogram
