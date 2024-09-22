@@ -1,5 +1,8 @@
 # IDS706_pandas_description_hw2 by Joey Yu(yy373)
 
+![CI](https://github.com/yuyue1999/JoeyYu_Assignment2_Polars/actions/workflows/ci.yml/badge.svg)
+
+
 ## Requirements
 * Python script using Polars for descriptive statistics
 * Read a dataset (CSV or Excel)

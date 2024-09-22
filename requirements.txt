@@ -1,4 +1,4 @@
-pandas
+polars
 matplotlib
 FPDF
 pytest
